@@ -14,3 +14,6 @@ forward and backwards.
 - Use modular programming
 - Use clean readable code
 - Create your own data to test every functionality in the system
+
+## License
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
